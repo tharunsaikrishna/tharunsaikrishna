@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tharun Sai Krishna Tavva
 
-🎓 I’m currently a 3rd-year undergraduate student at **SASTRA Deemed University**, Thanjavur, pursuing a degree in **Computer Science with a specialization in Artificial Intelligence and Data Science**.
+🎓 I’m currently a 4th-year undergraduate student at **SASTRA Deemed University**, Thanjavur, pursuing a degree in **Computer Science with a specialization in Artificial Intelligence and Data Science**.
 
 ## 🧠 Interests
 
